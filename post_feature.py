@@ -5,7 +5,7 @@
 
 print(__doc__)
 get_ipython().magic('matplotlib inline')
-
+edit here to test github
 import matplotlib.pyplot as plt
 import numpy as np
 from numpy  import array
